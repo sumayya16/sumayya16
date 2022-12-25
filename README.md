@@ -5,9 +5,7 @@
 
 - 👯 I’m looking to collaborate on **web development projects**
 
-- 📫 How to reach me **sumayyamaheen2024@cs.ajce.in, sumayyamaheen2002@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1EL0Mf9i5F1diRCf1sT0IMyZ5rS7ClwZd/view?usp=share_link](https://drive.google.com/file/d/1EL0Mf9i5F1diRCf1sT0IMyZ5rS7ClwZd/view?usp=share_link)
+- 📫 How to reach me **sumayyamaheen2024@cs.ajce.in sumayyamaheen2002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

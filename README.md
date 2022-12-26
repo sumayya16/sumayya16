@@ -2,7 +2,7 @@
 <h3 align="center">A CS student and passionate learner</h3>
 
 
-🌱 I’m currently learning python and web development<br><br>👯 I’m looking to collaborate on web development projects<br><br>📫 [Tap here to contact me](sumayyamaheen2024@cs.ajce.in)<br><br> [![Linkedin:Sumayya](https://img.shields.io/badge/sumayyamaheen-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumayya-maheen-202628211) [![Instagram:Sumayya](https://img.shields.io/badge/__.ma.__.lu.__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__.ma._.lu.__/)
+🌱 I’m currently learning python and web development<br><br>👯 I’m looking to collaborate on web development projects<br><br>📫 [Tap here to contact me](mailto:sumayyamaheen2024@cs.ajce.in)<br><br> [![Linkedin:Sumayya](https://img.shields.io/badge/sumayyamaheen-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumayya-maheen-202628211) [![Instagram:Sumayya](https://img.shields.io/badge/__.ma.__.lu.__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__.ma._.lu.__/)
 
 
 # 💻 Languages and Tools:
